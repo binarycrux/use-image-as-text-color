@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  background-image: url(img/img.jpg);
+  font-size: 13vw;
+  background-size: 100% 100%;
+  background-position: center;
+  -webkit-background-clip: text;
+  display: inline-block;
+  /* color: #cbce09be; */
+  color: transparent;
+}
